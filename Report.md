@@ -249,7 +249,7 @@ artifacts
 
 ```
 
-## Resolt
+## Result
 
 ```ShellSession
 $ popd //возвращаем верхний стэк
