@@ -193,5 +193,5 @@ Cозданы конфигурационный файл CPackConfig.cmake и и�
 - [NSIS](https://cmake.org/cmake/help/latest/module/CPackNSIS.html)
 
 ```
-Copyright (c) 2017 Братья Вершинины
+Copyright (c) 2018 Алексей Михайлов
 ```
